@@ -129,7 +129,7 @@ Aplikasi akan berjalan di `http://localhost:3000`
 
 - **Provider**: Credentials (Email & Password)
 - **Strategy**: JWT
-- **Database**: SQLite dengan Prisma
+- **Database**: PostgreSQL dengan Prisma
 - **Password Hashing**: bcryptjs
 
 ### Middleware Protection
@@ -235,17 +235,6 @@ NEXTAUTH_URL="https://your-domain.com"
 - [ ] Profile management
 - [ ] Export data functionality
 
-## 🤝 Contributing
-
-1. Fork repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Create Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
