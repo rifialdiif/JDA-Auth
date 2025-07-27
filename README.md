@@ -1,13 +1,13 @@
 # Dashboard Catatan Keuangan - NextAuth.js Authentication
 
-Project ini adalah aplikasi Dashboard Catatan Keuangan yang mengimplementasikan sistem autentikasi menggunakan NextAuth.js dengan Next.js 14.
+Project ini adalah aplikasi Dashboard Catatan Keuangan yang mengimplementasikan sistem autentikasi menggunakan NextAuth.js dengan Next.js.
 
 ## 🚀 Fitur Utama
 
 - **Authentication System**: Login dan Register dengan email & password
 - **Protected Routes**: Middleware untuk melindungi halaman dashboard
 - **Session Management**: Menggunakan NextAuth.js untuk manajemen session
-- **Database**: SQLite dengan Prisma ORM
+- **Database**: PostgreSQL dengan Prisma ORM
 - **Modern UI**: Tailwind CSS untuk tampilan yang responsif
 
 ## 📋 Ketentuan yang Dipenuhi
